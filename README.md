@@ -30,6 +30,7 @@ Install dependencies:
 bash
 Copy code
 pip install PyMuPDF Pillow
+
 Run the application:
 
 bash
