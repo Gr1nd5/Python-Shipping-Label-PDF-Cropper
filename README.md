@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Gr1nd5/pdf-cropper.git
+git clone https://github.com/Gr1nd5/Python-Shipping-Label-PDF-Cropper.git
 cd pdf-cropper
 Install dependencies:
 
