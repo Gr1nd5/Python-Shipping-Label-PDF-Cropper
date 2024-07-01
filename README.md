@@ -19,34 +19,41 @@ PDF Cropper is a simple GUI application built with Python and Tkinter that allow
 
 ## Usage
 
-Clone the repository:
+1. **Clone the repository:**
 
-bash
-git clone https://github.com/Gr1nd5/Python-Shipping-Label-PDF-Cropper.git
-cd Python-Shipping-Label-PDF-Cropper
+    ```bash
+    git clone https://github.com/Gr1nd5/Python-Shipping-Label-PDF-Cropper.git
+    cd Python-Shipping-Label-PDF-Cropper
+    ```
 
+2. **Install dependencies:**
 
-cd Python-Shipping-Label-PDF-Cropper
-Install dependencies:
+    ```bash
+    pip install PyMuPDF Pillow
+    ```
 
-bash
-Copy code
-pip install PyMuPDF Pillow
+3. **Run the application:**
 
-Run the application:
+    ```bash
+    python pdf_cropper.py
+    ```
 
-bash
-Copy code
-python pdf_cropper.py
-Use the GUI to open a PDF, adjust crop dimensions, drag to position the crop area, and save the cropped PDF.
+4. **Use the GUI to:**
+   - Open a PDF,
+   - Adjust crop dimensions,
+   - Drag to position the crop area,
+   - Save the cropped PDF.
 
 ## Screenshots
-Working on it 
+
+*Working on it*
 
 ## Contributing
+
 Contributions are welcome! Feel free to open issues for feature requests or bug reports, and submit pull requests to contribute improvements.
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to customize this description further based on specific features, screenshots, or additional information you want to highlight about your PDF Cropper application. Adjust the URLs (git clone URL, license file URL) and directory structure (screenshots/) as per your actual repository setup.
