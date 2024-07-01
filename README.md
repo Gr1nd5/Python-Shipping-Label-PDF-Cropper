@@ -23,7 +23,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/Gr1nd5/Python-Shipping-Label-PDF-Cropper.git
-cd pdf-cropper
+cd Python-Shipping-Label-PDF-Cropper
 Install dependencies:
 
 bash
