@@ -55,5 +55,3 @@ Contributions are welcome! Feel free to open issues for feature requests or bug 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize this description further based on specific features, screenshots, or additional information you want to highlight about your PDF Cropper application. Adjust the URLs (git clone URL, license file URL) and directory structure (screenshots/) as per your actual repository setup.
