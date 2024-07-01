@@ -38,11 +38,12 @@ python pdf_cropper.py
 Use the GUI to open a PDF, adjust crop dimensions, drag to position the crop area, and save the cropped PDF.
 
 ## Screenshots
+Working on it 
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues for feature requests or bug reports, and submit pull requests to contribute improvements.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to customize this description further based on specific features, screenshots, or additional information you want to highlight about your PDF Cropper application. Adjust the URLs (git clone URL, license file URL) and directory structure (screenshots/) as per your actual repository setup.
