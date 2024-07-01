@@ -18,11 +18,13 @@ PDF Cropper is a simple GUI application built with Python and Tkinter that allow
 - PIL (Pillow)
 
 ## Usage
+
 Clone the repository:
 
 bash
-Copy code
 git clone https://github.com/Gr1nd5/Python-Shipping-Label-PDF-Cropper.git
+cd Python-Shipping-Label-PDF-Cropper
+
 
 cd Python-Shipping-Label-PDF-Cropper
 Install dependencies:
